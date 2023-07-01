@@ -48,4 +48,4 @@ let arr = [1,2,3,4,5,6,7,8]
 
 let element = 6
 
-console.log(binary(arr,element,0,arr.length-1))
+console.log(binary(arr,element,0,arr.length-1));
